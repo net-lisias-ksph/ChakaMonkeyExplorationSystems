@@ -7,8 +7,7 @@ This is an unofficial, non authorised repository for **Chaka Monkey Exploration 
 
 ## Content
 * [Binaries](https://github.com/net-lisias-ksph/ChakaMonkeyExplorationSystems/tree/Archive)
-* Sources
-	+ WiP
+* [Sources](https://github.com/net-lisias-ksph/ChakaMonkeyExplorationSystems/tree/Source)
 * [Change Log](./CHANGE_LOG.md)
 
 
